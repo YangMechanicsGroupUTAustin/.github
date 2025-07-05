@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there!👋 Welcome to the Yang Research Group at the Department of Aerospace Engineering & Engineering Mechanics at the University of Texas at Austin!
 
-This organization github page is still under construction. 
+🙋‍♀️ A short introduction - what is your organization all about?
 
 <!--
 
