@@ -1,7 +1,7 @@
 ### Hi there!👋 Welcome to the Yang Research Group @UT-Austin!
 
 ## 👯 A short introduction of our research group
-We are a solid experimental mechanics research group at the University of Texas at Austin. PI Prof. Jin Yang is an assistant professor in the Department of Aerospace Engineering and Engineering Mechanics. Our graduate and undergraduate students come from Aerospace Engineering, Engineering Mechanics, Mechanical Engineering, Computational Engineering, Biomedical Engineering, Materials Science, Petroleum Engineering programs. 
+We are a solid experimental mechanics research group at the University of Texas at Austin (UT-Austin). PI Prof. Jin Yang is an assistant professor in the Department of Aerospace Engineering and Engineering Mechanics. Our graduate and undergraduate students come from Aerospace Engineering, Engineering Mechanics, Mechanical Engineering, Computational Engineering, Biomedical Engineering, Materials Science, Petroleum Engineering programs at UT-Austin. 
   
 ## 🔭 Our group's mission
 Our research interests include developing analytical tools and experimental techniques to study viscoelastic materials behavior, dynamic instabilities, and material failure under extreme loading conditions. We are currently experimentally characterizing and modeling the dynamic, nonlinear behavior of viscoelastic materials, including hydrogels, biological tissues, and foam materials, under various strain-rate (10^-4 ~ 10^7 s^-1) dynamic loading. We also aim to leverage state-of-the-art machine learning and data-driven methods to keep improving 2D and 3D full-field deformation measurement (e.g., digital image correlation, digital volume correlation, particle tracking) and other material characterization experimental techniques.
