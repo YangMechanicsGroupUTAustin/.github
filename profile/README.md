@@ -7,7 +7,7 @@ We are a solid experimental mechanics research group at the University of Texas 
 Our research interests include developing analytical tools and experimental techniques to study viscoelastic materials behavior, dynamic instabilities, and material failure under extreme loading conditions. We are currently experimentally characterizing and modeling the dynamic, nonlinear behavior of viscoelastic materials, including hydrogels, biological tissues, and foam materials, under various strain-rate (10^-4 ~ 10^7 s^-1) dynamic loading. We also aim to leverage state-of-the-art machine learning and data-driven methods to keep improving 2D and 3D full-field deformation measurement (e.g., digital image correlation, digital volume correlation, particle tracking) and other material characterization experimental techniques.
 
 ## 📫 Welcome to reach out!
-- If you want to work with us, check out [our research group website](https://sites.utexas.edu/yang/)!  📫 
+- If you want to work with us, check out [our research group website](https://sites.utexas.edu/yang/)!  
 - Feel free to [reach out](mailto:jin.yang@austin.utexas.edu) to me if you have any cool ideas!
 
   
