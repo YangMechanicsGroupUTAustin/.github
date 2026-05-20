@@ -8,7 +8,7 @@ Our research interests include developing analytical tools and experimental tech
 
 ## 📫 Welcome to reach out!
 - If you want to work with us, check out [our research group website](https://sites.utexas.edu/yang/)!  
-- Feel free to [reach out](mailto:jin.yang@austin.utexas.edu) to me if you have any cool ideas!
+- Feel free to [reach out](mailto:jin.yang@austin.utexas.edu) to us if you have any cool ideas!
 
   
 <!--
