@@ -22,12 +22,3 @@ Our research interests include developing analytical tools and experimental tech
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-
-## 👩‍💻 Highlighted repositories:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyang526843&repo=2D_ALDIC&layout=compact&theme=vision-friendly-dark)](https://github.com/jyang526843/2D_ALDIC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyang526843&repo=2D_FE_Global_DIC&layout=compact&theme=vision-friendly-dark)](https://github.com/jyang526843/2D_FE_Global_DIC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranckLab&repo=ALDVC&layout=compact&theme=vision-friendly-dark)](https://github.com/FranckLab/ALDVC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyang526843&repo=SerialTrack&layout=compact&theme=vision-friendly-dark)](https://github.com/jyang526843/SerialTrack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InertialMicrocavitationRheometry&repo=IMR_simple&layout=compact&theme=vision-friendly-dark)](https://github.com/InertialMicrocavitationRheometry/IMR_simple)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyang526843&repo=STAQ-DIC&layout=compact&theme=vision-friendly-dark)](https://github.com/jyang526843/STAQ-DIC)
